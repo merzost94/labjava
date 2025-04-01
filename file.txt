@@ -1,2 +1,8 @@
 Initial commit
+<<<<<<< HEAD
 Change in master
+=======
+Change in my_branch
+Commit in my_branch
+>>>>>>> my_branch
+Third commit
